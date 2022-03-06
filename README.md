@@ -36,3 +36,9 @@ https://yeda.cs.technion.ac.il/eng/resources_corpora_haknesset.html
 https://hebrew-nlp.co.il/Registration
 
 https://github.com/NLPH/NLPH
+
+data set on hebrew words
+
+https://www.kaggle.com/danofer/hebrew-stop-words
+
+https://www.kaggle.com/vladimirkon/hebrew-words
