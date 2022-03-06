@@ -29,5 +29,6 @@ https://yeda.cs.technion.ac.il/eng/resources_corpora_arutz7.html
 https://yeda.cs.technion.ac.il/eng/resources_corpora_themarker.html
 
 https://yeda.cs.technion.ac.il/eng/resources_corpora_haknesset.html
+פרויקט שמבצע ניתוח טקסט בכל מיני וריאציות ומעביר בין עברית לאנגלית גם כן (בין בננה לbanana) דורש הירשמות וטלפון עם SMS לקבלת תשובה
 
-
+https://hebrew-nlp.co.il/Registration
